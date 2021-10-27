@@ -13,14 +13,13 @@ body {
   margin: 0;
   padding-top: 3rem;
   justify-content: center;
-
 }
 
 .add {
   position: fixed;
   top: 1rem;
   right: 1rem;
-  background-color: #9ec862;
+  background-color: #9082c2;
   color: #fff;
   border: none;
   border-radius: 3px;
@@ -42,7 +41,7 @@ body {
 }
 
 .note .tools {
-  background-color: #9ec862;
+  background-color: #9082c2;
   display: flex;
   justify-content: flex-end;
   padding: 0.5rem;
