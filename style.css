@@ -12,6 +12,8 @@ body {
   flex-wrap: wrap;
   margin: 0;
   padding-top: 3rem;
+  justify-content: center;
+
 }
 
 .add {
